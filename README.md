@@ -2,6 +2,13 @@
 
 ![Banner](https://raw.githubusercontent.com/x6ijeX6/x6ijeX6/refs/heads/main/banner.png)
 
+## 📖 Table of Contents
+- [About Me](#-about-me)
+- [Projects](#-projects)
+- [Languages & Frameworks](#️-languages--frameworks)
+- [Social Media](#-social-media)
+- [Support Me](#-support-me)
+
 ## 🧑‍💻 About Me
 Hi there! I'm **x6ije**, a 15-year-old developer from Poland. I specialize in **JavaScript**, **CSS**, and **HTML**, creating everything from mobile apps to Discord bots. 😊  
 
@@ -34,4 +41,4 @@ Hi there! I'm **x6ije**, a 15-year-old developer from Poland. I specialize in **
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@x6ije)  
 
 ## 💖 Support Me
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/x6ije)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/x6ije) 
