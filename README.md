@@ -1,6 +1,6 @@
 # 👋 Welcome to x6ije's GitHub Profile!
 
-![Banner](https://raw.githubusercontent.com/x6ijeX6/x6ijeX6/refs/heads/main/banner.jpg)
+![Banner](https://raw.githubusercontent.com/x6ijeX6/x6ijeX6/refs/heads/main/banner.png)
 
 ## 🧑‍💻 About Me
 Hi there! I'm **x6ije**, a 15-year-old developer from Poland. I specialize in **JavaScript**, **CSS**, and **HTML**, creating everything from mobile apps to Discord bots. 😊  
