@@ -14,7 +14,7 @@ Hi there! I'm **x6ije**, a 15-year-old developer from Poland. I specialize in **
 
 - 🎮 **Games I play:** Minecraft, Blood Strike, Valorant, Aimcademy, Call of Duty Mobile  
 - 💬 **Discord:** x6ije  
-- ✉️ **Email:** x6ije.x6@gmail.com  
+- ✉️ **Email:** xaijex@gmail.com  
 
 ## ✨ Projects
 - 🌟 **Mobile App:**  
